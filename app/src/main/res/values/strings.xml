@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KGIS</string>
+    <string name="task_title">Task Title<font color="#ff0000"><bold> *</bold></font></string>
+    <string name="description">Description<font color="#ff0000"><bold> *</bold></font></string>
+    <string name="date">Date<font color="#ff0000"><bold> *</bold></font></string>
+    <string name="next_to_be_done">Next to be done</string>
+    <string name="today">Today</string>
+    <string name="weekly_meeting">Weekly Meeting</string>
+    <string name="plan_to_do">Plan to do</string>
+    <string name="create_a_task_or_no_data_found">Create a task or No Data Found</string>
+    <string name="my_schedule">My Schedule</string>
+    <string name="my_schedule_list">My Schedule List</string>
+    <string name="month_picker">Month Picker</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="select_month_or_select_date_n_no_data_found">Select Month or Select Date \n No Data found</string>
+</resources>
